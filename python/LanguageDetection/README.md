@@ -18,9 +18,7 @@ Clear separation between detection logic, server logic, and input handling.
 ## Technologies & Concepts
 Python
 
-API design
-
-REST‑less server architecture
+REST‑API server architecture
 
 String processing
 
